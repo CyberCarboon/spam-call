@@ -7,7 +7,7 @@ $pkg install python2
 
 $pkg install git
 
-$pkg install requests
+$pip install requests
 
 $git clone https://github.com/CyberCarboon/spam-call
 
